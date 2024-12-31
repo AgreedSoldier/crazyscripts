@@ -11494,7 +11494,7 @@
 -- Welcome to Light!
 -- Welcome to Chaos!
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LightGotHomies/UI-Library/refs/heads/main/LightUI.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LightGotHomies/UI-Library/main/LightUI.lua"))()
 
 
 
